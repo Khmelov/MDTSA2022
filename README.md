@@ -1,4 +1,4 @@
-# MDTSA2022
+# MTDSA2022
 Modern technologies for developing scalable applications 
 
 1. Сделайте форк отсюда.
